@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// Manages all registered systems.
 class SystemManager {

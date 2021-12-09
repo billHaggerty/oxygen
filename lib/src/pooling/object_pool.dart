@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 abstract class ObjectPool<T extends PoolObject<V>, V> {
   final Queue<T> _pool = Queue<T>();

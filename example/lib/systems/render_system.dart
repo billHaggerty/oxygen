@@ -3,7 +3,7 @@ import 'package:example/components/color_component.dart';
 import 'package:example/components/name_component.dart';
 import 'package:example/utils/terminal.dart';
 import 'package:example/utils/vector2.dart';
-import 'package:oxygen/oxygen.dart';
+import 'package:oxygen_bill/oxygen.dart';
 
 import '../components/render_component.dart';
 import '../components/position_component.dart';

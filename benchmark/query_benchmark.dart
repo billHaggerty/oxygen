@@ -1,4 +1,4 @@
-import 'package:oxygen/oxygen.dart';
+import 'package:oxygen_bill/oxygen_bill.dart';
 import 'package:benchmark/benchmark.dart';
 
 class Test100Component extends Component<void> {

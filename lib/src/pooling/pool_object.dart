@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 abstract class PoolObject<T> {
   /// The pool from which the object came from.

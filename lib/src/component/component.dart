@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// A [Component] is a way to store data for an [Entity].
 ///

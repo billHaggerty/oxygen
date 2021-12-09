@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// A filter allows a [Query] to be able to filter down entities.
 abstract class Filter<T extends Component> {

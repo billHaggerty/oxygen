@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// Systems contain the logic for components.
 ///

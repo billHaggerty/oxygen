@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// An Entity is a simple "container" for components.
 ///

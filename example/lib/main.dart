@@ -8,7 +8,7 @@ import 'package:example/utils/color.dart';
 import 'package:example/utils/game.dart';
 import 'package:example/utils/vector2.dart';
 import 'package:example/utils/terminal.dart';
-import 'package:oxygen/oxygen.dart';
+import 'package:oxygen_bill/oxygen.dart';
 
 import 'systems/move_system.dart';
 import 'systems/render_system.dart';

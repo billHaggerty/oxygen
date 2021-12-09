@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 class World {
   final HashMap<String, dynamic> _storedItems = HashMap();

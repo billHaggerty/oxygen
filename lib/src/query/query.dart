@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// A Query is a way to retrieve entities by matching their components against the Query filters.
 ///

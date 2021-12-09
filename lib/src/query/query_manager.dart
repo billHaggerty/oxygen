@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// Manages all the queries to ensure we don't duplicate lists.
 class QueryManager {

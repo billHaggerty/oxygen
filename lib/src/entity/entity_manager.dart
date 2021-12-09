@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// ObjectPool for entities.
 class EntityPool extends ObjectPool<Entity, String> {

@@ -1,4 +1,4 @@
-import 'package:oxygen/oxygen.dart';
+import 'package:oxygen_bill/oxygen.dart';
 
 enum Direction {
   up,

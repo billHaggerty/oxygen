@@ -7,7 +7,7 @@ import 'package:example/components/velocity_component.dart';
 import 'package:example/utils/color.dart';
 import 'package:example/utils/keyboard.dart';
 import 'package:example/utils/vector2.dart';
-import 'package:oxygen/oxygen.dart';
+import 'package:oxygen_bill/oxygen.dart';
 
 class PlayerMoveSystem extends System {
   late Query query;

@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 /// With the [ValueComponent] you can easily define single value components.
 class ValueComponent<T> extends Component<T> {

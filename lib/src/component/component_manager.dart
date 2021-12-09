@@ -1,4 +1,4 @@
-part of oxygen;
+part of oxygen_bill;
 
 typedef ComponentBuilder<T> = T Function();
 

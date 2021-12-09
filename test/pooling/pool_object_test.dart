@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:oxygen/oxygen.dart';
+import 'package:oxygen_bill/oxygen_bill.dart';
 
 class TestObject extends PoolObject<int> {
   @override

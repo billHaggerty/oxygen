@@ -1,5 +1,5 @@
 /// A lightweight Entity Component System written in Dart.
-library oxygen;
+library oxygen_bill;
 
 import 'dart:collection';
 
